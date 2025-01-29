@@ -1,6 +1,6 @@
 <h1 align="center">Khush Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">Student of Aditya Silver oak collage Ahmedabad,India</h3>
+<img align="right" alt="coding" with="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **SprindBoot Framwork**
 
 - 💬 Ask me about **java**
